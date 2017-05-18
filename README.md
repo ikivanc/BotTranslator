@@ -4,7 +4,7 @@ Bots are the new apps, and bots're becoming trend day by day in our daily life. 
 
 Native language support is an essential key point for such experiences provides Natural User Interface (NUI) for last users like chatbots. In this sample we'll learn how to use Microsoft Translator in a Bot Framework Application.
 
-![](Screenshots/BotEmulator.png)
+![](./Screenshots/BotEmulator.png)
 
 
 In this demo I used "TR>EN" translation, Turkish as native language and English as target language.
@@ -18,7 +18,7 @@ In this demo I used "TR>EN" translation, Turkish as native language and English 
 To use translator in or bot service we'll use Microsoft Translator Text API. Microsoft Translator APIs can be seamlessly integrated into your applications, websites, tools, or other solutions to provide multi-language user experiences. Leveraging industry standards, it can be used on any hardware platform and with any operating system to perform language translation and other language-related operations such as text language detection or text to speech. [Click Here](https://www.microsoft.com/en-us/translator) for more information about the Microsoft Translator API
 
 
-<img src="Screenshots/CustomTranslationSystems.png" width="300" alt="Microsoft Translator with BotFramework"> 
+<img src="./Screenshots/CustomTranslationSystems.png" width="300" alt="Microsoft Translator with BotFramework"> 
 
 ### Getting Started to use Microsoft Translator API
 To access the Microsoft Translator Text API you will need to sign up for Microsoft Azure. Follow these steps.
