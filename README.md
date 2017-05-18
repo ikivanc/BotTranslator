@@ -82,13 +82,13 @@ Bot has unique BotID, MicrosoftAppID and MicrosoftAppPassword whenever you publi
 ## Deploying and running bot endpoint
 - To debug the bot sample and then run it, press F5 or select Debug >  Start Debugging. To run the sample without debugging, press Ctrl+F5 or select Debug > Start Without Debugging. After that you'll see below running bot endpoint.
 
-![](ScreenShots/botapprun.png)
+![](ScreenShots/BotAppRun.png)
 
 ## Running Bot Emulator
 You can download Bot Emulator from [http://emulator.botframework.com](http://emulator.botframework.com)
 
 After that Search "Microsoft Bot Framework Emulator" from your program and files. This will help you to test your bot endpoint before publishing it. It has a chatbot interface in order to test capabilities of your bot. And before adding a bot into conversation make sure your BotID, MicrosoftAppID and MicrosoftAppPassword are ok. Type your message and recieve the response from bot.
 
-![](ScreenShots/botemulator.png)
+![](ScreenShots/BotEmulator.png)
 
 Have fun!
