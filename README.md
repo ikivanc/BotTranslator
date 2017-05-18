@@ -4,7 +4,7 @@ Bots are the new apps, and bots're becoming trend day by day in our daily life. 
 
 Native language support is an essential key point for such experiences provides Natural User Interface (NUI) for last users like chatbots. In this sample we'll learn how to use Microsoft Translator in a Bot Framework Application.
 
-![](./Screenshots/BotEmulator.png)
+![](./ScreenShots/BotEmulator.png)
 
 
 In this demo I used "TR>EN" translation, Turkish as native language and English as target language.
@@ -18,7 +18,7 @@ In this demo I used "TR>EN" translation, Turkish as native language and English 
 To use translator in or bot service we'll use Microsoft Translator Text API. Microsoft Translator APIs can be seamlessly integrated into your applications, websites, tools, or other solutions to provide multi-language user experiences. Leveraging industry standards, it can be used on any hardware platform and with any operating system to perform language translation and other language-related operations such as text language detection or text to speech. [Click Here](https://www.microsoft.com/en-us/translator) for more information about the Microsoft Translator API
 
 
-<img src="./Screenshots/CustomTranslationSystems.png" width="300" alt="Microsoft Translator with BotFramework"> 
+<img src="./ScreenShots/CustomTranslationSystems.png" width="300" alt="Microsoft Translator with BotFramework"> 
 
 ### Getting Started to use Microsoft Translator API
 To access the Microsoft Translator Text API you will need to sign up for Microsoft Azure. Follow these steps.
@@ -61,7 +61,7 @@ This is a step-by-step guide to writing an Bot in C# using the Bot Framework Con
 3. Open Visual Studio
 
 4. Create a new C# project using the new Bot Application template.
-![](Screenshots/VSBotTemplate.png)
+![](ScreenShots/VSBotTemplate.png)
 
 5. The template is a fully functional Echo Bot that takes the user’s text utterance as input and returns it as output. In order to run however, 
     * The bot has to be registered with Bot Connector
@@ -71,7 +71,7 @@ This is a step-by-step guide to writing an Bot in C# using the Bot Framework Con
 ## BotID, MicrosoftAppID and MicrosoftAppPassword
 Bot has unique BotID, MicrosoftAppID and MicrosoftAppPassword whenever you publish to botframework.com, it comes with default settings like below. in order to test in your bot emulator you need to make sure BotID, MicrosoftAppID and MicrosoftAppPassword are ok.
 
-![](Screenshots/VSBotWebConfig.png) 
+![](ScreenShots/VSBotWebConfig.png) 
 
 ## Build the sample Bot Project
 1. If you download the samples ZIP, be sure to unzip the entire archive, not just the folder with the sample you want to build. 
@@ -82,13 +82,13 @@ Bot has unique BotID, MicrosoftAppID and MicrosoftAppPassword whenever you publi
 ## Deploying and running bot endpoint
 - To debug the bot sample and then run it, press F5 or select Debug >  Start Debugging. To run the sample without debugging, press Ctrl+F5 or select Debug > Start Without Debugging. After that you'll see below running bot endpoint.
 
-![](Screenshots/botapprun.png)
+![](ScreenShots/botapprun.png)
 
 ## Running Bot Emulator
 You can download Bot Emulator from [http://emulator.botframework.com](http://emulator.botframework.com)
 
 After that Search "Microsoft Bot Framework Emulator" from your program and files. This will help you to test your bot endpoint before publishing it. It has a chatbot interface in order to test capabilities of your bot. And before adding a bot into conversation make sure your BotID, MicrosoftAppID and MicrosoftAppPassword are ok. Type your message and recieve the response from bot.
 
-![](Screenshots/botemulator.png)
+![](ScreenShots/botemulator.png)
 
 Have fun!
